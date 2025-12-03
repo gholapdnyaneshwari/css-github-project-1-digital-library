@@ -1,4 +1,10 @@
-/* Main container */
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #E3D4B9;
+}
+
+
 .container-login-signup {
     width: 750px;
     margin: auto;
@@ -12,22 +18,19 @@
     gap: 0px;
 }
 
-/* Left form box */
 .subcontainer {
     width: 400px;
     padding: 30px;
 }
 
-/* Right image box */
-.image-box{
-    margin-bottom:0px;
+.image-box {
+    margin-bottom: 0px;
 }
 
-.img{
+.img {
     border-radius: 0px 15px 15px 0px;
 }
 
-/* Inputs */
 input[type="text"],
 input[type="number"],
 input[type="password"] {
@@ -38,7 +41,6 @@ input[type="password"] {
     border: 1px solid #aaa;
 }
 
-/* Button */
 .login-button {
     width: 200PX;
     height: 40PX;
@@ -53,4 +55,51 @@ input[type="password"] {
 
 .login-button:hover {
     background: #8b5e3b;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #E3D4B9;
+}
+
+.navbar-main-container {
+    background-color: #4B3D2D;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: sticky;
+    top: 0;
+}
+
+.logo-container {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.project-name {
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.logo {
+    border-radius: 30px;
+}
+
+.nav-links-container {
+    display: flex;
+    gap: 20px;
+    cursor: pointer;
+}
+.menu-item{
+    text-decoration: none;
+    color: white;
+}
+.auth-links-container {
+    display: flex;
+    gap: 20px;
+    cursor: pointer;
 }
