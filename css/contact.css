@@ -91,7 +91,7 @@ body {
     margin-left:150px ;
 }
 .sub-container-2 {
-    background-color: #ebe8e2;
+   
     height: 400px;
     width: 400px;
     margin-top: 60px;
@@ -118,6 +118,21 @@ body {
 }
 .info-task{
     margin-bottom: 10px;
+}
+.button-style{
+    border-radius:15px ;
+    border:none ;
+    background-color:#eee3cd;
+    margin-right: 10px;
+    padding: 10px;
+}
+.learn-more-button{
+    border-radius: 10px;
+    border:none ;
+    background-color:#E3D4B9 ;
+    margin-top: 10px;
+    margin-left: 35px;
+    padding: 8px;
 }
 
 
