@@ -88,6 +88,8 @@ body {
 }
 .location{
     width: 17px;
+    align-items: center;
+    vertical-align:middle;
  
 
 }
