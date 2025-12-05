@@ -1,23 +1,36 @@
-#Digital Library 🏛️
+ # DIGITAL LIBRARY
+ ![Pic](./images/realme-logo.avif)    
+## Welcome to Digital Library!
+ In our Digital Library project, we created an online system where students and users can easily search for the books, notes, research papers, and study materials they need. First, we collected digital books from different subjects, organized them into proper categories, and then uploaded them to the library system. We designed a user-friendly interface so that anyone can find and read books in just a few simple steps. We also added features like a search bar and filter options to help users quickly find material based on their topics. Overall, the aim of our project was to build a modern, convenient, and easily accessible library where knowledge is available with just one click.
 
-Welcome to Digital Library!
-Discover a curated collection of books designed for every reader
+ **In this project, we have added the books listed below:**
+ 
+ 1.Fiction Book(story)
+ - Harry Potter 
+ - The white tiger 
+ - The god of small things 
+ - Falling in love again 
 
-Reading books is an incredible activity that acts as a mental workout, a powerful stress-reliever, and a gateway to a richer, more empathetic life. It's more than just a hobby; it's a habit that boosts your brainpower, broadens your understanding of the world, and can even help you live longer. 
+ 2.Non-Fiction Book
+ - Wings of fire 
+ - Atomic habits 
+ - Ratan tata
+ - Manifest
 
-If you love to read books this is best website.There are various books you can buy like kids book,fiction book ,non-fiction books etc. Also you can give order on the page only.everything is available at minimum range.
+ 3.Kids Book
+ - Peppa's pig
+ - Stable in Bethlehem
+ - Toddle waddle
+ - Animal world
 
-![screenshot]{.}
-
-##How to contribute
-
+## How to contribute
 We welcome contributors from the community to help us expand and improve this handbook.If you would like to contribute,follow these steps:
 
-1.Fork the repository to your github account.
-2.Make your changes ,add new content, or fix any existing issues.
-3.Open a new pull request in this repository.
+- Fork the repository to your github account.
+- Make your changes ,add new content, or fix any existing issues.
+- Open a new pull request in this repository.
 
-##Contributors
+## Contributors
 
 <a href="https://github.com/css-github-project-1-digital-library/undefined/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=css-github-project-1-digital-library/undefined" />
