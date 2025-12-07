@@ -8,7 +8,7 @@ body {
 .container-login-signup {
     width: 750px;
     margin: auto;
-    margin-top: 80px;
+    margin-top: 40px;
     display: flex;
     justify-content: space-between;
     align-items: stretch;
